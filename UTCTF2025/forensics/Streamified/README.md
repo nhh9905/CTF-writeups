@@ -42,7 +42,7 @@ img.save('qrcoder.png')
 
 After executed the script, I got a really beautiful QR code 😍
 
-![QR code contains flag](image\qrcoder.png)
+![QR code contains flag](\image\qrcoder.png)
 
 # Flag
 Scanned the QR code, got the flag `utflag{b!t_by_b!t}`
