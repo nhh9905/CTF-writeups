@@ -27,4 +27,6 @@ Here we go, `xxd` has SUID permission
 
 I ran `xxd -p /home/trapped/flag.txt | tr -d '\n' | xxd -r -p` and...
 
+![flag leak](image/img3.png)
+
 # Flag: `utflag{SpeciaL_Permissionz}`
