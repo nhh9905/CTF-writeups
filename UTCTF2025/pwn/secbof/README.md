@@ -1,6 +1,6 @@
 # secbof
 ## Challenge
-[chall](secbof)
+[chall](../secbof)
 ## Find vulnerabilities
 - Đọc qua code ta thấy lỗ hổng buffer overflow và lớp bảo vệ seccomp trong hàm install_filter
 
