@@ -1,6 +1,6 @@
 # Seen Guessing
 ## Chall
-[chall](Seen_Guessing/chall)
+[chall](chall)
 ## Exploit
 - Đọc qua code ta thấy có hàm win đọc flag, nghĩ ngay đến kỹ thuật ret2win
 

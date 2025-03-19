@@ -1,6 +1,6 @@
 # Seen Shop
 ## Chall
-[chall](Seen_Shop/code)
+[chall](code)
 ## Exploit
 - Đọc qua source code, ta thấy:
 
